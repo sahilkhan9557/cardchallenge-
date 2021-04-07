@@ -1,0 +1,151 @@
+body {
+  align-items: center;
+  text-align: center;
+  background-color: rgb(235, 235, 235);
+  margin: 50px 0 50px 0;
+  margin-left: 150px;
+
+  padding: 100px 300px 150px 300px;
+}
+/* .container {
+  margin: 100px;
+  background-color: rgb(185, 185, 185);
+} */
+
+.sedans {
+  background-color: hsl(31, 77%, 52%);
+  width: 13rem;
+  height: 25rem;
+  text-align: left;
+  padding: 30px;
+  position: relative;
+  right: 20px;
+  font-size: 15px;
+  border-radius: 10px 0 0 10px;
+}
+.ps {
+  text-align: left;
+  font-family: "Lexend Deca", sans-serif;
+  color: white;
+  position: relative;
+  top: 1px;
+  line-height: 1.5;
+  margin-top: 10px;
+}
+h1 {
+  font-family: "Big Shoulders Display", cursive;
+  color: white;
+  position: relative;
+  top: 20px;
+}
+.btn-1 {
+  background-color: white;
+  font-family: "Lexend Deca", sans-serif;
+  font-size: 10px;
+  color: hsl(31, 77%, 52%);
+
+  height: 15px;
+  width: 40%;
+  padding: 10px 15px;
+  position: relative;
+  top: 60px;
+  border-radius: 10em;
+  text-align: center;
+}
+.suv {
+  background-color: hsl(184, 100%, 22%);
+  width: 13rem;
+  height: 25rem;
+  text-align: left;
+  padding: 30px;
+  position: relative;
+  left: 248px;
+  bottom: 460px;
+  font-size: 15px;
+  border-radius: 0;
+
+  margin: 0;
+}
+.ps {
+  text-align: left;
+  font-family: "Lexend Deca", sans-serif;
+  color: white;
+  position: relative;
+  top: 1px;
+  line-height: 1.5;
+  margin-top: 10px;
+}
+h1 {
+  font-family: "Big Shoulders Display", cursive;
+  color: white;
+  position: relative;
+  top: 20px;
+}
+.btn-2 {
+  background-color: white;
+  font-family: "Lexend Deca", sans-serif;
+  font-size: 10px;
+  color: hsl(184, 100%, 22%);
+  height: 15px;
+  width: 40%;
+  padding: 10px 15px;
+  position: relative;
+  top: 60px;
+  border-radius: 10em;
+  text-align: center;
+}
+.luxury {
+  background-color: hsl(179, 100%, 13%);
+  width: 13rem;
+  height: 25rem;
+  text-align: left;
+  padding: 30px;
+  border-radius: 0 10px 10px 0;
+  position: relative;
+  left: 515.5px;
+  bottom: 920px;
+  font-size: 15px;
+}
+.ps {
+  text-align: left;
+  font-family: "Lexend Deca", sans-serif;
+  color: white;
+  position: relative;
+  top: 1px;
+  line-height: 1.5;
+  margin-top: 10px;
+}
+h1 {
+  font-family: "Big Shoulders Display", cursive;
+  color: white;
+  position: relative;
+  top: 20px;
+}
+.btn-3 {
+  background-color: white;
+  font-family: "Lexend Deca", sans-serif;
+  font-size: 10px;
+  color: hsl(184, 100%, 22%);
+  height: 15px;
+  width: 40%;
+  padding: 10px 15px;
+  position: relative;
+  top: 60px;
+  border-radius: 10em;
+  text-align: center;
+}
+a {
+  text-decoration: none;
+}
+.or {
+  color: hsl(31, 77%, 52%);
+  font-size: 12px;
+}
+.bl {
+  color: hsl(184, 100%, 22%);
+  font-size: 12px;
+}
+.cy {
+  color: hsl(184, 100%, 22%);
+  font-size: 12px;
+}
